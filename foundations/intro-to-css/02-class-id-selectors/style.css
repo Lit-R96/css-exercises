@@ -1,1 +1,26 @@
-/* Add CSS Styling */
+    .OddNumbers {
+    background-color: rgb(255, 182, 193);
+        font-family: Verdana, 'DejaVu Sans', sans-serif; 
+        }
+
+    /* Number 2 styles.css */
+   
+    #Number2 {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+            }
+
+    /* Number 3 font size */
+
+    .font-size-number3 {
+        font-size: 24px;
+    }
+
+    /* Number 4 styles.css */
+    
+    #Number4 {
+        background-color: rgb(152, 251, 152);
+        font-size: 24px;
+        font-weight: bold;
+             }
+
